@@ -1,0 +1,38 @@
+/* @import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css"; */
+.slide {
+  transform: scale(0.5);
+  transition: transform 300ms;
+  opacity: 0.5;
+}
+
+.activeSlide {
+  transform: scale(1.05);
+  opacity: 1;
+ 
+}
+
+.arrow {
+  position: absolute;
+  cursor: pointer;
+  z-index: 20;
+}
+
+.next{
+    right: 0%;
+    top: 40%;
+}
+.prev{
+    left: 0%;
+    top: 40%;
+}
+@media screen and (max-width: 780px) {
+  .prev{
+    left: 35%;
+    top: 102%;
+}
+  .next{
+    right: 35%;
+    top: 102%;
+}
+}

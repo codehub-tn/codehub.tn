@@ -5,18 +5,30 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export":"next build && next export"
   },
   "dependencies": {
     "@emotion/cache": "^11.7.1",
     "@emotion/react": "^11.7.1",
     "@emotion/server": "^11.4.0",
     "@emotion/styled": "^11.6.0",
+    "@fontsource/roboto": "^4.5.3",
+    "@mui/icons-material": "^5.3.1",
     "@mui/material": "^5.4.0",
+    "framer-motion": "^6.2.4",
+    "gray-matter": "^4.0.3",
     "next": "12.0.10",
     "prop-types": "^15.8.1",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-scroll": "^1.8.4",
+    "react-slick": "^0.28.1",
+    "react-tsparticles": "^1.40.2",
+    "remark": "^14.0.2",
+    "remark-html": "^15.0.1",
+    "showdown": "^2.0.0-alpha",
+    "slick-carousel": "^1.8.1"
   },
   "devDependencies": {
     "eslint": "8.8.0",
