@@ -22,7 +22,7 @@ const Home = () => {
                         }}
                     >
                         Espace de coworking, refuge pour les{" "}
-                        <FlippedText delay={0.5} duration={4.5} words={["créatifs", "freelances", "startups"]} /> avec
+                        <FlippedText delay={0.5} duration={4} words={["créatifs", "freelances", "startups"]} /> avec
                         une vue imprenable sur sousse
                     </Typography>
                 </Box>
