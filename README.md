@@ -110,7 +110,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mehdi Ben Hadj Ali - [linkedIn](https://www.linkedin.com/in/mehdibha/) - mehdibenhadjali@gmail.com
 
-Project Link: [https://github.com/Mehdi-BHA/Awesomefolio](https://github.com/Mehdi-BHA/codehub.tn)
+Project Link: [https://github.com/Mehdi-BHA/codehub.tn](https://github.com/Mehdi-BHA/codehub.tn)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
