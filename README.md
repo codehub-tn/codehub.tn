@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Mehdi-BHA/Awesomefolio">
-    <img src="https://raw.githubusercontent.com/Mehdi-BHA/Awesomefolio/main/screenshots/mokup.jpg" alt="Home section" width="600">
+    <img src="screenshots/preview.jpg" alt="Home section" width="600">
   </a>
 
   <h1 align="center">codehub.tn</h3>
@@ -52,53 +52,29 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-First version of <a href="https://mehdibha.codehub.tn" target="_blank">mehdibha.codehub.tn</a>
+Second version of <a href="https://www.codehub.tn" target="_blank">www.codehub.tn</a>
 
 ### Forking this project
 If someone wants to use this code on his own website, the answer is **YES** BUT please with credits !
-I've spent a non-trivial amount of effort building and designing this iteration of my website, and I am proud of it!
+I've spent a non-trivial amount of effort building and designing this iteration of this website, and i am proud of it!
 
 ### Screenshots
 
 <p align="center">
-  <p align="center">Light Mode</p>
-  <img src="screenshots/light.png" alt="Home section">
-</p>
-<p align="center">
-  <p align="center">Home Section</p>
-  <img src="screenshots/home.png" alt="Home section">
-</p>
-<br />
-<p align="center">
-  <p align="center">About Section</p>
-  <img src="screenshots/about.png" alt="About section">
-</p>
-<br />
-<p align="center">
-  <p align="center">Experience Section</p>
-  <img src="screenshots/experience.png" alt="Experience section">
-</p>
-<br />
-<p align="center">
-  <p align="center">Projects Section</p>
-  <img src="screenshots/projects.png" alt="Projects section">
-</p>
-<br />
-<p align="center">
-  <p align="center">Contact Section</p>
-  <img src="screenshots/contact.png" alt="Contact section">
+  <p align="center">Landing page</p>
+  <img src="screenshots/main.jpg" alt="landing page">
 </p>
 
 ### Built With
 
-* [React JS](https://reactjs.org/)
+* [Next JS](https://nextjs.org/)
 * [Material UI](https://material-ui.com/)
 * [Framer Motion](https://www.framer.com/motion/)
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-If you want to clone the project and make you personal portfolio
+If you want to clone the project
 
 ### Installation
 
@@ -109,6 +85,7 @@ If you want to clone the project and make you personal portfolio
 2. Install NPM packages
    ```sh
    npm install
+   npm run dev
    ```
 
 <!-- CONTRIBUTING -->
@@ -133,7 +110,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Mehdi Ben Hadj Ali - [linkedIn](https://www.linkedin.com/in/mehdibha/) - mehdibenhadjali@gmail.com
 
-Project Link: [https://github.com/Mehdi-BHA/Awesomefolio](https://github.com/Mehdi-BHA/Awesomefolio)
+Project Link: [https://github.com/Mehdi-BHA/Awesomefolio](https://github.com/Mehdi-BHA/codehub.tn)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
