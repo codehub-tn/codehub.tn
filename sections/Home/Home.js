@@ -6,7 +6,7 @@ import Particles from "../../components/Particles/Particles";
 const Home = () => {
     const theme = useTheme();
     return (
-        <SectionContainer sx={{ position: "relative",overflow:"hidden" }} id="sectionAccueil">
+        <SectionContainer sx={{ position: "relative", overflow: "hidden" }} id="sectionAccueil">
             <Particles />
             <Container maxWidth="lg" sx={{ py: 27 }}>
                 <Box sx={{ overflow: "hidden" }}>
@@ -14,7 +14,7 @@ const Home = () => {
                         align="center"
                         variant="h3"
                         sx={{
-                            margin:"0 auto",
+                            margin: "0 auto",
                             maxWidth: "800px",
                             [theme.breakpoints.down("md")]: {
                                 fontSize: 38,
@@ -22,11 +22,8 @@ const Home = () => {
                         }}
                     >
                         Espace de coworking, refuge pour les{" "}
-                        <FlippedText
-                            duration={2}
-                            words={["créatifs", "freelances", "startups"]}
-                        />{" "}
-                        avec une vue imprenable sur sousse
+                        <FlippedText delay={0.5} duration={4.5} words={["créatifs", "freelances", "startups"]} /> avec
+                        une vue imprenable sur sousse
                     </Typography>
                 </Box>
             </Container>

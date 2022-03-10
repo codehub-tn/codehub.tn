@@ -1,0 +1,19 @@
+
+
+   <!-- public/sitemap.xml -->
+  <xml version="1.0" encoding="UTF-8">
+   <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+     <url>
+       <loc>http://www.codehub.tn</loc>
+       <lastmod>2022-03-09</lastmod>
+     </url>
+     <url>
+      <loc>https://codehub.tn/blog/meilleurs-coworking-sousse</loc>
+       <lastmod>2022-03-09</lastmod>
+    </url>
+     <url>
+      <loc>https://www.codehub.tn/blog</loc>
+       <lastmod>2022-03-09</lastmod>
+    </url>
+   </urlset>
+  </xml>

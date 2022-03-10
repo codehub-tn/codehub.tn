@@ -25,6 +25,7 @@ const ListItem = ({ id, title, description, imageUrl }) => {
                                 <img
                                     src={imageUrl}
                                     style={{objectFit:'cover', width:'100%'}}
+                                    loading="lazy"
                                 />
                             </Grid>}
                             <Grid

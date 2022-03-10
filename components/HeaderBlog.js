@@ -27,7 +27,7 @@ const Header = ({ title, imageUrl }) => {
             >
                 {title}
             </Typography>
-            <StyledImage src={imageUrl} alt="writing"/>
+            <StyledImage src={imageUrl} loading="lazy" alt="writing"/>
             <Box
                 sx={{
                     position: "absolute",

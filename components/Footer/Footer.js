@@ -15,7 +15,7 @@ const Footer = () => {
                 pb: 4,
             }}
         >
-            <Divider variant="middle" sx={{mb:5}} />
+            <Divider variant="middle" sx={{ mb: 5 }} />
             <Container maxWidth="md">
                 <Box display="flex" alignItem="center">
                     <LocationOnIcon />
@@ -36,12 +36,14 @@ const Footer = () => {
                     </Typography>
                 </Box>
                 <Box display="flex" alignItems="center" sx={{ mt: 2 }}>
-                    <StyledIcon href="https://www.facebook.com/codehubtn">
-                        <FacebookIcon />
-                    </StyledIcon>
-                    <StyledIcon href="https://www.instagram.com/codehub.coworking" style={{flex:1}}>
-                        <InstagramIcon />
-                    </StyledIcon>
+                    <Box style={{ flex: 1 }}>
+                        <StyledIcon href="https://www.facebook.com/codehubtn">
+                            <FacebookIcon />
+                        </StyledIcon>
+                        <StyledIcon href="https://www.instagram.com/codehub.coworking">
+                            <InstagramIcon />
+                        </StyledIcon>
+                    </Box>
                     <Typography variant="h7">© 2021 Code Hub, Inc.</Typography>
                 </Box>
             </Container>
@@ -50,7 +52,7 @@ const Footer = () => {
 };
 
 const StyledIcon = styled("a")({
-    marginRight:10,
+    marginRight: 10,
     verticalAlign: "middle",
     "& svg": {
         fontSize: "35px",

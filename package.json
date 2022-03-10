@@ -6,7 +6,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "export":"next build && next export"
+    "export": "next build && next export"
   },
   "dependencies": {
     "@emotion/cache": "^11.7.1",
@@ -22,6 +22,7 @@
     "prop-types": "^15.8.1",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-ga": "^3.3.0",
     "react-scroll": "^1.8.4",
     "react-slick": "^0.28.1",
     "react-tsparticles": "^1.40.2",
