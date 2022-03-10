@@ -11,17 +11,17 @@
     <img src="https://raw.githubusercontent.com/Mehdi-BHA/Awesomefolio/main/screenshots/mokup.jpg" alt="Home section" width="600">
   </a>
 
-  <h1 align="center">Awesomefolio</h3>
+  <h1 align="center">codehub.tn</h3>
 
   <p align="center">
-    An awesome, modern React portfolio
+    A coworking space located in downtown Sousse, Tunisia 
     <br />
     <br />
-    <a href="https://mehdibha.codehub.tn">View Demo</a>
+    <a href="https://www.codehub.tn">View Demo</a>
     ·
-    <a href="https://github.com/Mehdi-BHA/Awesomefolio/issues">Report Bug</a>
+    <a href="https://github.com/Mehdi-BHA/codehub.tn/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Mehdi-BHA/Awesomefolio/issues">Request Feature</a>
+    <a href="https://github.com/Mehdi-BHA/codehub.tn/issues">Request Feature</a>
   </p>
 </p>
 
@@ -138,13 +138,13 @@ Project Link: [https://github.com/Mehdi-BHA/Awesomefolio](https://github.com/Meh
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Mehdi-BHA/Awesomefolio.svg?style=for-the-badge
-[contributors-url]: https://github.com/Mehdi-BHA/Awesomefolio/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Mehdi-BHA/Awesomefolio.svg?style=for-the-badge
-[forks-url]: https://github.com/Mehdi-BHA/Awesomefolio.svg/network/members
-[stars-shield]: https://img.shields.io/github/stars/Mehdi-BHA/Awesomefolio.svg?style=for-the-badge
-[stars-url]: https://github.com/Mehdi-BHA/Awesomefolio.svg/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Mehdi-BHA/Awesomefolio.svg?style=for-the-badge
-[issues-url]: https://github.com/Mehdi-BHA/Awesomefolio.svg/issues
-[license-shield]: https://img.shields.io/github/license/Mehdi-BHA/Awesomefolio.svg?style=for-the-badge
-[license-url]: https://github.com/Mehdi-BHA/Awesomefolio.svg/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Mehdi-BHA/codehub.tn.svg?style=for-the-badge
+[contributors-url]: https://github.com/Mehdi-BHA/codehub.tn/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Mehdi-BHA/codehub.tn.svg?style=for-the-badge
+[forks-url]: https://github.com/Mehdi-BHA/codehub.tn.svg/network/members
+[stars-shield]: https://img.shields.io/github/stars/Mehdi-BHA/codehub.tn.svg?style=for-the-badge
+[stars-url]: https://github.com/Mehdi-BHA/codehub.tn.svg/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Mehdi-BHA/codehub.tn.svg?style=for-the-badge
+[issues-url]: https://github.com/Mehdi-BHA/codehub.tn.svg/issues
+[license-shield]: https://img.shields.io/github/license/Mehdi-BHA/codehub.tn.svg?style=for-the-badge
+[license-url]: https://github.com/Mehdi-BHA/codehub.tn.svg/blob/master/LICENSE.txt
