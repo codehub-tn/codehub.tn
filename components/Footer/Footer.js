@@ -26,7 +26,7 @@ const Footer = () => {
                 <Box display="flex" alignItem="center">
                     <LocalPhoneIcon />
                     <Typography variant="body1" sx={{ ml: 2 }}>
-                        (216) 56 434 555
+                        (216) 53 403 522 | 56 688 415
                     </Typography>
                 </Box>
                 <Box display="flex" alignItem="center">
